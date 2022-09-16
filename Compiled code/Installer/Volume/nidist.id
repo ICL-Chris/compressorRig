@@ -1,0 +1,10 @@
+[Volume Id]
+DistributionGUID={1D57028F-F043-4116-BFCD-52577C3A72F1}
+DistPackageGUID={64446859-4A94-4271-B272-C62813BBABC3}
+DistributionVersion=1.0.4
+DistributionType=MDF
+DistributionLanguage=9
+Volume=1
+TotalNumberOfVolumesInDistribution=1
+ExePath=Compressor Rig Installer.exe
+UpdateInfoFile=supportfiles\updateInfo.xml
