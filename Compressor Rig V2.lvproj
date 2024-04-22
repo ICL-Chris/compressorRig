@@ -107,21 +107,20 @@
 			<Item Name="Analogue loop data.ctl" Type="VI" URL="../RT/Type Defs/Analogue loop data.ctl"/>
 			<Item Name="channelScalingTypes.ctl" Type="VI" URL="../RT/Type Defs/channelScalingTypes.ctl"/>
 			<Item Name="check for unique filename.vi" Type="VI" URL="../../ICL-LabVIEW_General/utility functions/file tools/check for unique filename.vi"/>
-			<Item Name="Coeff Range Check.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/Coeff Range Check.vi"/>
+			<Item Name="Coeff Range Check.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/Coeff Range Check.vi"/>
 			<Item Name="comms data.ctl" Type="VI" URL="../RT/Communications loop/comms data.ctl"/>
 			<Item Name="configFilePath.ctl" Type="VI" URL="../RT/Type Defs/configFilePath.ctl"/>
 			<Item Name="configure pulser IP.vi" Type="VI" URL="../../ICL-LabVIEW_General/Pulser Controller/configure pulser IP.vi"/>
 			<Item Name="connect to pulser.vi" Type="VI" URL="../../ICL-LabVIEW_General/Pulser Controller/connect to pulser.vi"/>
-			<Item Name="control enabled state.vi" Type="VI" URL="../../../Chris/oneDrive/OneDrive - Imperial College London/LabVIEW/Chris VIs - XXX/Control interactions/control enabled state.vi"/>
-			<Item Name="control interactions polymorphic.vi" Type="VI" URL="../../../Chris/oneDrive/OneDrive - Imperial College London/LabVIEW/Chris VIs - XXX/Control interactions/control interactions polymorphic.vi"/>
-			<Item Name="control visible.vi" Type="VI" URL="../../../Chris/oneDrive/OneDrive - Imperial College London/LabVIEW/Chris VIs - XXX/Control interactions/control visible.vi"/>
 			<Item Name="create folder if required.vi" Type="VI" URL="../../ICL-LabVIEW_General/utility functions/file tools/create folder if required.vi"/>
-			<Item Name="cRIO Convert Thermocouple Reading.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/cRIO Convert Thermocouple Reading.vi"/>
-			<Item Name="cRIO Temperature to Volts.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/cRIO Temperature to Volts.vi"/>
-			<Item Name="cRIO Volts to Temperature.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/cRIO Volts to Temperature.vi"/>
+			<Item Name="cRIO Convert Thermocouple Reading.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/cRIO Convert Thermocouple Reading.vi"/>
+			<Item Name="cRIO Temperature to Volts.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/cRIO Temperature to Volts.vi"/>
+			<Item Name="cRIO Volts to Temperature.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/cRIO Volts to Temperature.vi"/>
 			<Item Name="custom vi connector template.vi" Type="VI" URL="../PC/customVI/custom vi connector template.vi"/>
 			<Item Name="Data processing loop data.ctl" Type="VI" URL="../RT/Type Defs/Data processing loop data.ctl"/>
 			<Item Name="define active channels.vi" Type="VI" URL="../RT/Initialisation/define active channels.vi"/>
+			<Item Name="enqueue element.vi" Type="VI" URL="../../ICL-LabVIEW_General/queues/enqueue element.vi"/>
+			<Item Name="enqueue multiple messages.vi" Type="VI" URL="../../ICL-LabVIEW_General/queues/enqueue multiple messages.vi"/>
 			<Item Name="error incident cluster.ctl" Type="VI" URL="../RT/Type Defs/error incident cluster.ctl"/>
 			<Item Name="extract plot data.vi" Type="VI" URL="../PC/customVI/liveData/extract plot data.vi"/>
 			<Item Name="FPGA reference.ctl" Type="VI" URL="../RT/Type Defs/FPGA reference.ctl"/>
@@ -134,17 +133,17 @@
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="menu bar.rtm" Type="Document" URL="../../ICL-LabVIEW_General/Pulser Controller/menu bar.rtm"/>
 			<Item Name="Message loop data.ctl" Type="VI" URL="../RT/Type Defs/Message loop data.ctl"/>
-			<Item Name="NI 9212 Convert Thermistor Reading.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9212/NI 9212 Support Files.llb/NI 9212 Convert Thermistor Reading.vi"/>
-			<Item Name="NI 9212 Thermistor look-up table.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9212/NI 9212 Support Files.llb/NI 9212 Thermistor look-up table.vi"/>
-			<Item Name="NI 9213 Convert Thermistor Reading.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9213/NI 9213 Support Files.llb/NI 9213 Convert Thermistor Reading.vi"/>
-			<Item Name="NI 9213 Convert to Temperature (Calibrated).vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9213/NI 9213 Support Files.llb/NI 9213 Convert to Temperature (Calibrated).vi"/>
+			<Item Name="NI 9212 Convert Thermistor Reading.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9212/NI 9212 Support Files.llb/NI 9212 Convert Thermistor Reading.vi"/>
+			<Item Name="NI 9212 Thermistor look-up table.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9212/NI 9212 Support Files.llb/NI 9212 Thermistor look-up table.vi"/>
+			<Item Name="NI 9213 Convert Thermistor Reading.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9213/NI 9213 Support Files.llb/NI 9213 Convert Thermistor Reading.vi"/>
+			<Item Name="NI 9213 Convert to Temperature (Calibrated).vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9213/NI 9213 Support Files.llb/NI 9213 Convert to Temperature (Calibrated).vi"/>
 			<Item Name="Pulser controller cluster.ctl" Type="VI" URL="../../ICL-LabVIEW_General/Pulser Controller/Pulser controller cluster.ctl"/>
 			<Item Name="Pulser Main.vi" Type="VI" URL="../../ICL-LabVIEW_General/Pulser Controller/Pulser Main.vi"/>
 			<Item Name="queues debug tool.vi" Type="VI" URL="../../ICL-LabVIEW_General/queues/queues debug tool.vi"/>
 			<Item Name="read channel limits config.vi" Type="VI" URL="../RT/Initialisation/read channel limits config.vi"/>
 			<Item Name="read channel scaling file.vi" Type="VI" URL="../RT/Initialisation/read channel scaling file.vi"/>
 			<Item Name="RT Status.ctl" Type="VI" URL="../RT/Type Defs/RT Status.ctl"/>
-			<Item Name="RTD to Temp.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/RTD to Temp.vi"/>
+			<Item Name="RTD to Temp.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/RTD to Temp.vi"/>
 			<Item Name="scalingMethods.ctl" Type="VI" URL="../RT/Type Defs/scalingMethods.ctl"/>
 			<Item Name="set speed and control display.vi" Type="VI" URL="../../ICL-LabVIEW_General/Pulser Controller/set speed and control display.vi"/>
 			<Item Name="split string into array on delimeter.vi" Type="VI" URL="../../ICL-LabVIEW_General/utility functions/string functions/split string into array on delimeter.vi"/>
@@ -152,8 +151,8 @@
 			<Item Name="state.ctl" Type="VI" URL="../PC/customVI/liveData/state.ctl"/>
 			<Item Name="stop and start sequence.vi" Type="VI" URL="../../ICL-LabVIEW_General/Pulser Controller/stop and start sequence.vi"/>
 			<Item Name="Stop pulser if running.vi" Type="VI" URL="../../ICL-LabVIEW_General/Pulser Controller/Stop pulser if running.vi"/>
-			<Item Name="TC Table Data.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/TC Table Data.vi"/>
-			<Item Name="Thermocouple Type.ctl" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/Thermocouple Type.ctl"/>
+			<Item Name="TC Table Data.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/TC Table Data.vi"/>
+			<Item Name="Thermocouple Type.ctl" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/Thermocouple Type.ctl"/>
 			<Item Name="update channel selections.vi" Type="VI" URL="../PC/customVI/liveData/update channel selections.vi"/>
 			<Item Name="update position and velocity.vi" Type="VI" URL="../../ICL-LabVIEW_General/Pulser Controller/update position and velocity.vi"/>
 			<Item Name="warning incident cluster.ctl" Type="VI" URL="../RT/Type Defs/warning incident cluster.ctl"/>
@@ -2620,7 +2619,6 @@ AddOutputFilter chunkFilter
 						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
 						<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 					</Item>
-					<Item Name="simulate encoders.vi" Type="VI" URL="../../Torque Transducer Trials/PC/simulate encoders.vi"/>
 				</Item>
 				<Item Name="Build Specifications" Type="Build">
 					<Item Name="FPGA Main" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
@@ -3024,31 +3022,33 @@ AddOutputFilter chunkFilter
 			<Item Name="channelControl.ctl" Type="VI" URL="../PC/type defs/channelControl.ctl"/>
 			<Item Name="channelLimitControl.ctl" Type="VI" URL="../PC/type defs/channelLimitControl.ctl"/>
 			<Item Name="check for unique filename.vi" Type="VI" URL="../../ICL-LabVIEW_General/utility functions/file tools/check for unique filename.vi"/>
-			<Item Name="Coeff Range Check.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/Coeff Range Check.vi"/>
+			<Item Name="Coeff Range Check.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/Coeff Range Check.vi"/>
 			<Item Name="CompressorRigV2_CompressorFPGA_FPGAMainV3_7sPRekuravM.lvbitx" Type="Document" URL="../FPGA Bitfiles/CompressorRigV2_CompressorFPGA_FPGAMainV3_7sPRekuravM.lvbitx"/>
 			<Item Name="configurationFileKeys.vi" Type="VI" URL="../PC/initialisation/configurationFileKeys.vi"/>
 			<Item Name="create folder if required.vi" Type="VI" URL="../../ICL-LabVIEW_General/utility functions/file tools/create folder if required.vi"/>
-			<Item Name="cRIO Convert Thermocouple Reading.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/cRIO Convert Thermocouple Reading.vi"/>
-			<Item Name="cRIO Temperature to Volts.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/cRIO Temperature to Volts.vi"/>
-			<Item Name="cRIO Volts to Temperature.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/cRIO Volts to Temperature.vi"/>
+			<Item Name="cRIO Convert Thermocouple Reading.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/cRIO Convert Thermocouple Reading.vi"/>
+			<Item Name="cRIO Temperature to Volts.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/cRIO Temperature to Volts.vi"/>
+			<Item Name="cRIO Volts to Temperature.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/cRIO Volts to Temperature.vi"/>
 			<Item Name="display queue contents.vi" Type="VI" URL="../RT/Trials/display queue contents.vi"/>
+			<Item Name="enqueue element.vi" Type="VI" URL="../../ICL-LabVIEW_General/queues/enqueue element.vi"/>
+			<Item Name="enqueue multiple messages.vi" Type="VI" URL="../../ICL-LabVIEW_General/queues/enqueue multiple messages.vi"/>
 			<Item Name="incident logger.lvlib" Type="Library" URL="../../ICL-LabVIEW_General/Incident logger/incident logger.lvlib"/>
 			<Item Name="limitActions.ctl" Type="VI" URL="../PC/type defs/limitActions.ctl"/>
 			<Item Name="load RT config file.vi" Type="VI" URL="../PC/initialisation/load RT config file.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="message scheduler library.lvlib" Type="Library" URL="../../ICL-LabVIEW_General/Message Scheduler/message scheduler library.lvlib"/>
-			<Item Name="NI 9212 Convert Thermistor Reading.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9212/NI 9212 Support Files.llb/NI 9212 Convert Thermistor Reading.vi"/>
-			<Item Name="NI 9212 Thermistor look-up table.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9212/NI 9212 Support Files.llb/NI 9212 Thermistor look-up table.vi"/>
-			<Item Name="NI 9213 Convert Thermistor Reading.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9213/NI 9213 Support Files.llb/NI 9213 Convert Thermistor Reading.vi"/>
-			<Item Name="NI 9213 Convert to Temperature (Calibrated).vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9213/NI 9213 Support Files.llb/NI 9213 Convert to Temperature (Calibrated).vi"/>
+			<Item Name="NI 9212 Convert Thermistor Reading.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9212/NI 9212 Support Files.llb/NI 9212 Convert Thermistor Reading.vi"/>
+			<Item Name="NI 9212 Thermistor look-up table.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9212/NI 9212 Support Files.llb/NI 9212 Thermistor look-up table.vi"/>
+			<Item Name="NI 9213 Convert Thermistor Reading.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9213/NI 9213 Support Files.llb/NI 9213 Convert Thermistor Reading.vi"/>
+			<Item Name="NI 9213 Convert to Temperature (Calibrated).vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Module Specific/NI 9213/NI 9213 Support Files.llb/NI 9213 Convert to Temperature (Calibrated).vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="RTD to Temp.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/RTD to Temp.vi"/>
+			<Item Name="RTD to Temp.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/RTD to Temp.vi"/>
 			<Item Name="split string into array on delimeter.vi" Type="VI" URL="../../ICL-LabVIEW_General/utility functions/string functions/split string into array on delimeter.vi"/>
 			<Item Name="standard queues.lvlib" Type="Library" URL="../../ICL-LabVIEW_General/queues/standard queues.lvlib"/>
-			<Item Name="TC Table Data.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/TC Table Data.vi"/>
-			<Item Name="Thermocouple Type.ctl" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/Thermocouple Type.ctl"/>
+			<Item Name="TC Table Data.vi" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/TC Table Data.vi"/>
+			<Item Name="Thermocouple Type.ctl" Type="VI" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2018/examples/CompactRIO/Shared/cRIO Convert Thermocouple Readings.llb/Thermocouple Type.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="New Compressor Rig RT" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
