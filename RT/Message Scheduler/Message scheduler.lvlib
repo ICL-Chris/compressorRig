@@ -8,7 +8,6 @@
 
 </Property>
 	<Item Name="Cancel scheduled message.vi" Type="VI" URL="../Cancel scheduled message.vi"/>
-	<Item Name="Message scheduler commands.vi" Type="VI" URL="../Message scheduler commands.vi"/>
 	<Item Name="New infinite timed message.vi" Type="VI" URL="../New infinite timed message.vi"/>
 	<Item Name="New multiple timed message.vi" Type="VI" URL="../New multiple timed message.vi"/>
 	<Item Name="New single shot delayed message.vi" Type="VI" URL="../New single shot delayed message.vi"/>
